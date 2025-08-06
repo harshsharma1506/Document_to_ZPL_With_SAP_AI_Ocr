@@ -367,3 +367,14 @@ This project integrates with **SAP Document Information Extraction (DOX)** servi
 SAP DOX API  →  Extracted JSON  →  ZPL Generator  →  Labelary PDF Preview
          ↑          ↓
      OAuth Token  .env config
+```
+
+🛠️ Installation
+```bash
+git clone https://github.com/yourusername/sap-document-ai-labels.git
+cd sap-document-ai-labels
+python -m venv venv
+source venv/bin/activate   # or venv\Scripts\activate on Windows
+pip install -r requirements.txt
+```
+
