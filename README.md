@@ -350,7 +350,7 @@ This project integrates with **SAP Document Information Extraction (DOX)** servi
  'status': 'DONE',
  'width': 2040}
 ```
- = Same can be seen in the SAP AI cockpit 
+ - Same can be seen in the SAP AI cockpit 
  
    <img width="1920" height="916" alt="{100F4694-4F18-4216-962C-70A1C864D85C}" src="https://github.com/user-attachments/assets/896230c3-4a7c-4ebe-a900-016592b0904c" />
 
