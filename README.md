@@ -17,6 +17,7 @@ This project integrates with **SAP Document Information Extraction (DOX)** servi
 ## 📸 Screenshots
 
 - `label.pdf` preview
+  
   <img width="659" height="819" alt="{4445163C-0418-4E56-8C61-E74FD14F397F}" src="https://github.com/user-attachments/assets/96e83d84-eeae-40fd-bea4-1f446dc835e7" />
 
 - Terminal output during job polling and label generation
@@ -355,7 +356,11 @@ This project integrates with **SAP Document Information Extraction (DOX)** servi
 
    <img width="1901" height="329" alt="{4E1BB69D-6597-4DB9-B3D1-B122C325CF5E}" src="https://github.com/user-attachments/assets/18d3527d-58a9-40e1-b99e-2cc636b4b1c7" />
 
-   
+- ZPL script generated
+
+  <img width="741" height="487" alt="image" src="https://github.com/user-attachments/assets/6af335cf-7aff-4f8c-9e5a-22a26f383c5e" />
+
+
 ## 🧩 Architecture Overview
 
 ```plaintext
