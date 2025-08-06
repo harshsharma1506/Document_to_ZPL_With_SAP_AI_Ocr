@@ -28,7 +28,7 @@ This project integrates with **SAP Document Information Extraction (DOX)** servi
   <img width="692" height="108" alt="{FE588D8E-70EA-43E9-BF11-66CDEAE89940}" src="https://github.com/user-attachments/assets/129badf8-a48a-4286-8297-cc5c952972ae" />
 
   JSON response 
-```json
+```js
 {'bocrVersion': '2.43.0',
  'clientId': 'default',
  'country': 'US',
